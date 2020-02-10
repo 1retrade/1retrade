@@ -6639,7 +6639,7 @@ section.lazy-placeholder:after {
 .cid-rPOWWufcXt table {
   width: 100% !important;
   margin-top: 6px;
-  border: 1px solid #5b686b;
+  border: 1px solid #465052;
   margin-bottom: 0;
 }
 .cid-rPOWWufcXt table th {
@@ -6648,11 +6648,11 @@ section.lazy-placeholder:after {
   border-bottom: none;
 }
 .cid-rPOWWufcXt table th:hover {
-  background: #5b686b;
+  background: #465052;
   color: #ffffff;
 }
 .cid-rPOWWufcXt table td {
-  border-top: 1px solid #5b686b;
+  border-top: 1px solid #465052;
 }
 .cid-rPOWWufcXt .dataTables_filter {
   text-align: right;
