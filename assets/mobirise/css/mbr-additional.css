@@ -7994,6 +7994,9 @@ section.lazy-placeholder:after {
 .cid-rQ5lMQ14rX .mbr-text P {
   text-align: center;
 }
+.cid-rQ5lMQ14rX .mbr-text {
+  color: #232323;
+}
 .cid-rQ5gBDvdK9 {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -8020,6 +8023,47 @@ section.lazy-placeholder:after {
 .cid-rQ5gBDvdK9 .mbr-text {
   color: #767676;
   text-align: left;
+}
+.cid-rQ5DA4Z2PT {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  position: relative;
+  background-color: #ffffff;
+}
+.cid-rQ5DA4Z2PT .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-rQ5DA4Z2PT .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-rQ5DA4Z2PT .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-rQ5DA4Z2PT .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-rQ5DA4Z2PT .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-rQ5DA4Z2PT .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-rQ5DA4Z2PT .card .panel-body {
+  color: #767676;
+}
+.cid-rQ5DA4Z2PT H4 {
+  color: #465052;
 }
 .cid-rQ5fYCqo1h {
   padding-top: 15px;
@@ -8048,6 +8092,47 @@ section.lazy-placeholder:after {
   color: #767676;
   text-align: left;
 }
+.cid-rQ5DYBJy9c {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  position: relative;
+  background-color: #ffffff;
+}
+.cid-rQ5DYBJy9c .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-rQ5DYBJy9c .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-rQ5DYBJy9c .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-rQ5DYBJy9c .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-rQ5DYBJy9c .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-rQ5DYBJy9c .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-rQ5DYBJy9c .card .panel-body {
+  color: #767676;
+}
+.cid-rQ5DYBJy9c H4 {
+  color: #465052;
+}
 .cid-rQ5xim6o6u {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -8059,6 +8144,9 @@ section.lazy-placeholder:after {
 }
 .cid-rQ5xim6o6u .mbr-text P {
   text-align: center;
+}
+.cid-rQ5xim6o6u .mbr-text {
+  color: #232323;
 }
 .cid-rQ56VpzFby {
   padding-top: 15px;
